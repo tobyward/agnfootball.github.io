@@ -2523,7 +2523,7 @@ input, select, textarea {
 			width: 2.5em;
 			height: 2.5em;
 			display: block;
-			background: #ffffff;
+			background: #DB0007;
 			border-radius: 100%;
 			color: #312450;
 			text-align: center;
@@ -2552,7 +2552,7 @@ input, select, textarea {
 				}
 
 				.wrapper.style3 .icon.major:before {
-					color: #a7cecb;
+					color: #CACC90;
 				}
 
 				.wrapper.style3-alt .icon.major:before {
@@ -3019,6 +3019,7 @@ input, select, textarea {
 			.spotlights > section > .image img {
 				border-radius: 0;
 				display: block;
+				max-width: 25em;
 			}
 
 			.spotlights > section > .image:before {
@@ -3787,10 +3788,10 @@ input, select, textarea {
 			}
 
 			#sidebar nav a:after {
-				background-image: -moz-linear-gradient(to right, #CACC90, #135303);
-				background-image: -webkit-linear-gradient(to right, #CACC90, #135303);
-				background-image: -ms-linear-gradient(to right, #CACC90, #135303);
-				background-image: linear-gradient(to right, #CACC90, #135303);
+				background-image: -moz-linear-gradient(to right, #CACC90, #DB0007);
+				background-image: -webkit-linear-gradient(to right, #CACC90, #DB0007);
+				background-image: -ms-linear-gradient(to right, #CACC90, #DB0007);
+				background-image: linear-gradient(to right, #CACC90, #DB0007);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
