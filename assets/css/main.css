@@ -3092,7 +3092,7 @@ input, select, textarea {
 		@media screen and (max-width: 1680px) {
 
 			.spotlights > section > .content {
-				padding: 4em 4em 2em 4em ;
+				padding: 1em 2em 0em 3em ;
 			}
 
 		}
